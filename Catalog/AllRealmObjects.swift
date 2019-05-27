@@ -7,3 +7,16 @@
 //
 
 import Foundation
+import RealmSwift
+
+final class Frendo: Object {
+    override static func primaryKey() -> String? {
+        return "id"
+    }
+    
+    var isRegistered: Bool?
+    var fullName: String?
+    var cellPhoneNumber: String?
+    var instagramHandle: String?
+    
+}

@@ -9,12 +9,16 @@
 import UIKit
 
 class FrendoViewController: UIViewController {
+    
+    var frendo: String?
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
+    
+    
     
 
     /*

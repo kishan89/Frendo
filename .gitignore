@@ -1,0 +1,14 @@
+Catalog/Constants.swift
+Pods/
+
+Podfile
+
+Podfile\.lock
+
+Catalog UX\.afdesign
+
+*.pbxproj
+
+Catalog\.xcworkspace/
+
+Catalog\.xcodeproj/

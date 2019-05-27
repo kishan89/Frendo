@@ -10,6 +10,8 @@ import UIKit
 
 class FrendoTableViewCell: UITableViewCell {
 
+    @IBOutlet var frendoName: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
